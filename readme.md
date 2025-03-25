@@ -32,28 +32,28 @@ Please refer to SLiMe(https://github.com/aliasgharkhani/SLiMe) for environment c
        		├── 1/                                   
        		├── ... 
        		├── 3/
-       ├──val/
+   	├──val/
    Deepglobe/                                        
-       ├── 1/                                     
-       |   ├── images
-       |   └── masks
-       ├── 2/                                   
-       ├── ... 
-       ├── 6/
+   	├── 1/                                     
+   	|   ├── images
+   	|   └── masks
+   	├── 2/                                   
+   	├── ... 
+   	├── 6/
    ISIC/                                        
-       ├── 1/                                     
-       |   ├── images
-       |   └── masks
-       ├── 2/                                   
-       ├── ... 
-       ├── 3/
+   	├── 1/                                     
+   	|   ├── images
+   	|   └── masks
+   	├── 2/                                   
+   	├── ... 
+   	├── 3/
    Lung/
    	├── train/                                     
-       |   ├── images
-       |   └── masks
+   	|   ├── images
+   	|   └── masks
    FSS-1000/
    	├── ab_wheel/
-       └── ...
+   	└── ...
    ```
 
 3. Run the script:
