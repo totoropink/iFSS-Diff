@@ -17,21 +17,21 @@ Please refer to SLiMe(https://github.com/aliasgharkhani/SLiMe) for environment c
    ```
    pascal-5/
    	├──train/
-       	├── 0/                                     
-       	|   ├── images
-       	|   └── masks
-       	├── 1/                                   
-       	├── ... 
-       	├── 3/
+       		├── 0/                                     
+       		|   ├── images
+       		|   └── masks
+       		├── 1/                                   
+       		├── ... 
+       		├── 3/
    	├──val/
    coco-20/
    	├──train/
-       	├── 0/                                     
-       	|   ├── images
-       	|   └── masks
-       	├── 1/                                   
-       	├── ... 
-       	├── 3/
+       		├── 0/                                     
+       		|   ├── images
+       		|   └── masks
+       		├── 1/                                   
+       		├── ... 
+       		├── 3/
        ├──val/
    Deepglobe/                                        
        ├── 1/                                     
